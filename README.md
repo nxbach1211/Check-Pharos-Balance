@@ -8,3 +8,5 @@ Install package bằng câu lệnh: pip install mnemonic bip32utils eth-account 
 Thay đổi Rpc_URL bằng cách tạo tài khoản [Zan](https://zan.top/faucet/pharos) để tránh bị limit do RPC của Pharos rất tệ
 
 Chạy bot bằng lệnh: python bot.py
+
+Kết quả trả về sẽ ở file results.txt
